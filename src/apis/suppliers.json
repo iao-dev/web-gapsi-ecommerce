@@ -1,0 +1,53 @@
+[
+    {
+       "id":1,"name":"company1","address":"adress1","email":"email@email.com","social":"Razón Social"},
+    {
+       "id":2,
+       "name":"company2",
+       "address":"adress2",
+       "email":"email2@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":3,
+       "name":"company3",
+       "address":"adress3",
+       "email":"email3@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":4,
+       "name":"company4",
+       "address":"adress4",
+       "email":"email4@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":5,
+       "name":"company5",
+       "address":"adress5",
+       "email":"email5@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":6,
+       "name":"company6",
+       "address":"adress6",
+       "email":"email6@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":7,
+       "name":"company7",
+       "address":"adress7",
+       "email":"email7@email.com",
+       "social":"Razón Social"
+    },
+    {
+       "id":8,
+       "name":"company8",
+       "address":"adress8",
+       "email":"email8@email.com",
+       "social":"Razón Social"
+    }
+ ]
